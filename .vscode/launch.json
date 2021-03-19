@@ -1,0 +1,74 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mainMenu",
+            "request": "launch",
+            "mainClass": "mainMenu",
+            "projectName": "Final Project_4822e066"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - part63",
+            "request": "launch",
+            "mainClass": "part63",
+            "projectName": "Final Project_4822e066"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - part62",
+            "request": "launch",
+            "mainClass": "part62",
+            "projectName": "Final Project_4822e066"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - part6",
+            "request": "launch",
+            "mainClass": "part6",
+            "projectName": "Final Project_4822e066"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - part5",
+            "request": "launch",
+            "mainClass": "part5",
+            "projectName": "Final Project_4822e066"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - part4",
+            "request": "launch",
+            "mainClass": "part4",
+            "projectName": "Final Project_4822e066"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - part3",
+            "request": "launch",
+            "mainClass": "part3",
+            "projectName": "Final Project_4822e066"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayTest",
+            "request": "launch",
+            "mainClass": "ArrayTest",
+            "projectName": "Final Project_4822e066"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - part2",
+            "request": "launch",
+            "mainClass": "part2",
+            "projectName": "Final Project_4822e066"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - part1",
+            "request": "launch",
+            "mainClass": "part1",
+            "projectName": "Final Project_4822e066"
+        }
+    ]
+}
